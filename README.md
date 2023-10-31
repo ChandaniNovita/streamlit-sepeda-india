@@ -285,7 +285,12 @@ score_rid = round((rid.score(x_test,y_test)*100),2)
 print ("Model Score",score_rid,"%")
 ```
 Model sudah selesai di buat, sekarang mari kita import menjadi file sav agar bisa digunakan pada projek streamlit
+```phyton
+import pickle
 
+filename = 'bike_price_in_india.sav'
+pickle.dump(lr,open(filename,'wb'))
+```
 ## Evaluation
 Disini saya menggunakan Root Mean Square Error atau (RMSE)
 - Root Mean Square Error (RMSE) sendiri yaitu metode alternatif untuk mengevaluasi teknik peramalan yang digunakan untuk mengukur tingkat akurasi hasil perkiraan suatu model. Nilai yang dihasilkan RMSE merupakan nilai rata-rata kuadrat dari jumlah kesalahan pada model prediksi.
