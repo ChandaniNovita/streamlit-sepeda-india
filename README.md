@@ -29,8 +29,6 @@ Dapat dilakukan secara onlline sehingga bisa menghemat waktu dan tenaga untuk me
 ## Data Understanding
 Kumpulan data ini berisi sekitar 8 ribu catatan harga sepeda bekas di India. Data telah dikumpulkan dari salah satu portal online terkemuka untuk menjual sepeda bekas di India melalui web scrapping.
 
-![image](newplot.png)
-
 ### Variabel-variabel pada Harga Sepeda di India adalah sebagai berikut:
 - model_year : Tahun pembuatan model[contoh;2017,2016,dll] [numerik]
 - kms_driven : Total kilometer yang telah ditempuh sepeda.[contoh; 17000,50000,dll][Numerik]
