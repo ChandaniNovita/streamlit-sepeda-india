@@ -267,6 +267,7 @@ predict_lr = lr.predict(x_test)
 score_lr = round((lr.score(x_test,y_test)*100),2)
 print ("Model Score",score_lr,"%")
 ```
+Hasilnya adalah : Model Score 73.66 %
 Regresi Ridge
 ```
 rid =Ridge(alpha=100)
