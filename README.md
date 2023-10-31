@@ -11,7 +11,7 @@ Estimasi harga sepeda di India ini bisa digunakan untuk memprediksi patokan harg
 ## Business Understanding
 
 Dapat dilakukan secara onlline sehingga bisa menghemat waktu dan tenaga untuk mencari spesifikasi jenis sepeda dan harganya di India.
-[Berikut adalah datasetnya](https://www.kaggle.com/datasets/ropali/used-bike-price-in-india/data)
+
 
 ### Problem Statements
 
@@ -28,7 +28,7 @@ Dapat dilakukan secara onlline sehingga bisa menghemat waktu dan tenaga untuk me
     - memilih kolom yang tepat dan metode yang tepat yakni meliputi pemilihan plot yang sesuai.
 
 ## Data Understanding
-Kumpulan data ini berisi sekitar 8 ribu catatan harga sepeda bekas di India. Data telah dikumpulkan dari salah satu portal online terkemuka untuk menjual sepeda bekas di India melalui web scrapping.
+Kumpulan data ini berisi sekitar 8 ribu catatan harga sepeda bekas di India. Data telah dikumpulkan dari salah satu portal online terkemuka untuk menjual sepeda bekas di India melalui web scrapping. [Berikut adalah datasetnya](https://www.kaggle.com/datasets/ropali/used-bike-price-in-india/data)
 
 ### Variabel-variabel pada Harga Sepeda di India adalah sebagai berikut:
 - model_year : Tahun pembuatan model[contoh;2017,2016,dll] [numerik]
