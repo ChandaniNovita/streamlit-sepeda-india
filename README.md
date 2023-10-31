@@ -170,6 +170,7 @@ import plotly.express as px
 fig = px.strip(data, x='company', y="price", orientation="h",color ='company')
 fig.show()
 ```
+![image](newplot(1)).png
 20 Model Sepeda Teratas berdasarkan Frekuensi
 ```
 freq = data['bike_model'].value_counts()[:20]
