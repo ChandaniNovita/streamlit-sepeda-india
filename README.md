@@ -29,7 +29,7 @@ Dapat dilakukan secara onlline sehingga bisa menghemat waktu dan tenaga untuk me
 ## Data Understanding
 Kumpulan data ini berisi sekitar 8 ribu catatan harga sepeda bekas di India. Data telah dikumpulkan dari salah satu portal online terkemuka untuk menjual sepeda bekas di India melalui web scrapping.
 
-[Harga Sepeda di India](https://www.kaggle.com/datasets/ropali/used-bike-price-in-india/data).  
+![image](newplot.png)
 
 ### Variabel-variabel pada Harga Sepeda di India adalah sebagai berikut:
 - model_year : Tahun pembuatan model[contoh;2017,2016,dll] [numerik]
@@ -164,6 +164,8 @@ fig.update_layout(xaxis_title='Company', yaxis_title='Count', showlegend=False)
 
 fig.show()
 ```
+![image](https://github.com/ChandaniNovita/streamlit-sepeda-india/assets/146313340/d2a67cbb-b822-4127-9187-34827e1ad382)
+
 Company & Price
 ```
 import plotly.express as px
