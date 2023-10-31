@@ -302,4 +302,5 @@ Root Mean Squared Error (RMSE): 34261.42346797726
 Nilai RMSE sebesar 33127.1884 menunjukkan bahwa rata-rata prediksi harga sepeda bekas dari model pohon keputusan memiliki error sekitar 33127.1884 Rupee India.
 ## Deployment
 [Aplikasi Estimasi Harga Sepeda di India](https://app-estimasi-g9f35eay9vzsorffit963d.streamlit.app/)
+![image](https://github.com/ChandaniNovita/streamlit-sepeda-india/blob/main/streamlit.png)
 
