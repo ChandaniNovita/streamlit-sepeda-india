@@ -181,6 +181,7 @@ fig.update_layout(title='Top 20 Bike Models by Frequency', xaxis_tickangle=-45, 
 
 fig.show()
 ```
+![image](https://github.com/ChandaniNovita/streamlit-sepeda-india/blob/main/topbike.png)
 Frekuensi harga berdasarkan power
 ```
 plt.figure(figsize=(20, 6))
